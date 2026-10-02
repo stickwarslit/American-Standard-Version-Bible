@@ -14,3 +14,4 @@ This repository is a fork of the American Standard Version Bible. It is kept her
   - Verb tenses and endings (`love`, `loved`, `loveth`, `loving`)
   - Archaic forms (`thou`, `thee`, `thy`, `thine`, `hath`, `doth`)
   - Spelling and capitalization differences
+- Also include common synonyms and related terms (for example, `sin`, `iniquity`, `transgression`, `trespass`), since the text often uses different words for the same idea.
